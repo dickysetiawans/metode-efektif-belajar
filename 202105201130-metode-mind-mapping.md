@@ -8,4 +8,4 @@ penjabaran secara visual. Cara ini diyakini lebih efektif dibanding menggunakan 
 Metode belajar ini cukup efektif karena menggunakan simbol, kata, warna, hingga gambar.
 
 
-Artikel lebih lengkap bisa baca di [mind mapping](https://id.wikipedia.org/wiki/Pemetaan_pikiran)
+lebih lengkap bisa baca di [mind mapping](https://id.wikipedia.org/wiki/Pemetaan_pikiran)
