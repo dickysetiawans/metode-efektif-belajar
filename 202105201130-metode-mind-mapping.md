@@ -2,4 +2,4 @@
 
 
 
-Artikel lebih lengkap bisa baca di [mind mapping](https://id.wikipedia.org/wiki/Pemetaan_pikiran)
+Artikel lebih lengkap bisa baca di [apa itu mind mapping](https://id.wikipedia.org/wiki/Pemetaan_pikiran)
