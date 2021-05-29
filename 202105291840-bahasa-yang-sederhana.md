@@ -8,6 +8,6 @@ dan kegunaaanya, sebelum menjelaskan kepada orang lain kita haru memahami [poin-
 2. Gunakan Kata yang Jelas dan Mudah Dipahami
 3. Jangan Sampai Salah Ejaan
 4. Kelengkapan Pesan
-dan cara penyampainya harus sopan dan baik,dengan begitu belajar akan lebih mudah dipahami.
+dan cara penyampainya harus sopan dan baik,dengan begitu belajar menggunakan metode [feynman akan berhasil](https://github.com/dickysetiawans/metode-feynman/blob/master/202105201126-metode-feynman.md)
 
 
