@@ -7,7 +7,7 @@ berpura-pura mengajarkan hal tersebut kepada orang lain.Caranya :
 
 1. Pilih materi yang ingin di pelajari  
 2. Baca dan pahami materi dengan baik 
-3. Tulis kembali[poin-poin penting](https://github.com/dickysetiawans/metode-feynman/blob/master/202105291836-poin-poin-penting.md) ke sebuah kertas
+3. Tulis kembali [poin-poin penting](https://github.com/dickysetiawans/metode-feynman/blob/master/202105291836-poin-poin-penting.md) ke sebuah kertas
 5. Jelaskan ke orang lain dengan bahasa yang sederhana
 
 
