@@ -8,4 +8,7 @@ harus dii pelajarii terlebih dahulu:
 3. Mempelajari Termiinal atau composer
 4. Mempelajari konsep MVC
 
-itu lah beberapa poin-poin penting sebelum mempelajari laravel, seperti yg sudah di jelaskan sebelumnya
+itu lah beberapa poin-poin penting yg harus di catat terlebih dahulu 
+sebelum mempelajari laravel, seperti yg sudah di jelaskan 
+[sebelumnya](https://id.wikipedia.org/wiki/Richard_Feynman), dengan menggunakan metode 
+[feynman](https://id.wikipedia.org/wiki/Richard_Feynman), belajar bisa lebih mudah di pahami
