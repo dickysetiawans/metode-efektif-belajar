@@ -10,5 +10,5 @@ harus dii pelajarii terlebih dahulu:
 
 itu lah beberapa poin-poin penting yg harus di catat terlebih dahulu 
 sebelum mempelajari laravel, seperti yg sudah di jelaskan 
-[sebelumnya](https://id.wikipedia.org/wiki/Richard_Feynman), dengan menggunakan metode 
-[feynman](https://id.wikipedia.org/wiki/Richard_Feynman), belajar bisa lebih mudah di pahami
+[sebelumnya](https://github.com/dickysetiawans/metode-feynman/blob/master/202105201126-metode-feynman.md), dengan menggunakan metode 
+[feynman](https://github.com/dickysetiawans/metode-feynman/blob/master/202105201126-metode-feynman.md), belajar bisa lebih mudah di pahami
